@@ -16,5 +16,5 @@ Abrir o arquivo compactado directamente no NetBeans (opcional)
 
 ## Dependências
 - Java 8+
--JDBC Driver para o MySQL Connector/J
+- JDBC Driver para o MySQL Connector/J
 
