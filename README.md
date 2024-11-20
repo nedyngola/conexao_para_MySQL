@@ -1,6 +1,6 @@
 # conexao_para_MySQL
 Este projeto demonstra a criação de uma aplicação Java para gerenciar conexões com um banco de dados MySQL, utilizando uma classe de fábrica (Factory Pattern). Além disso, o sistema permite o gerenciamento de dados básicos de um usuário, como nome, email e telefone.
-#
+##
 Abrir o arquivo compactado directamente no NetBeans (opcional)
 # Projeto Java com MySQL
 
@@ -16,5 +16,5 @@ Abrir o arquivo compactado directamente no NetBeans (opcional)
 
 ## Dependências
 - Java 8+
-- MySQL Connector/J
+-JDBC Driver para o MySQL Connector/J
 
